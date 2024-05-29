@@ -26,8 +26,8 @@ Check out GameDex [here](https://video-game-tracker-m7cr.vercel.app/) !
   <p>The server allows for:</p>
  <ul>
   <li>saving a new game (with or without a rating)</li>
-  <li>deleting a post by ID</li>
-  <li>updating a post by ID</li>
+  <li>deleting a game by ID</li>
+  <li>updating a game by ID</li>
   <li>fetching all of a user's saved games</li>
   <li>fetching an individual game</li>
   <li>fetching a user's profile information</li>
