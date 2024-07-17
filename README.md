@@ -14,7 +14,7 @@
 ## About The Project
 
 The GameDex is a video game tracking website built using the IGDB database API that allows you to create, update, rate, and delete logs of video games that you have played.
-This repository encompasses the backend server of the project. You can explore the [client-side code](https://github.com/m-saylor/video-game-tracker-api) or enjoy the deployed, fully-functional [site](https://video-game-tracker-m7cr.vercel.app/)!
+This repository encompasses the backend server of the project. You can explore the [client-side code](https://github.com/madison-nicole/video-game-tracker-api) or enjoy the deployed, fully-functional [site](https://video-game-tracker-m7cr.vercel.app/)!
 Check out GameDex [here](https://video-game-tracker-m7cr.vercel.app/) !
 
 <br>
